@@ -185,7 +185,7 @@ An interactive web application was developed with:
 
 The system is deployed using **Streamlit Cloud**.
 
- Live App: * https://student-segmentation-edupro.streamlit.app/*
+ Live App: https://student-segmentation-edupro.streamlit.app/
 
 ---
 
