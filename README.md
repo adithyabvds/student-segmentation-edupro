@@ -181,7 +181,7 @@ An interactive web application was developed with:
 
 ---
 
-## 🚀 Deployment
+## Deployment
 
 The system is deployed using **Streamlit Cloud**.
 
@@ -189,7 +189,7 @@ The system is deployed using **Streamlit Cloud**.
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ```bash
 pip install -r requirements.txt
