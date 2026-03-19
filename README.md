@@ -1,8 +1,8 @@
 # Student Segmentation and Personalized Course Recommendation System for EduPro
 
 ## Internship Project  
-**Organization:** Unified Mentor Private Limited  
-**Domain:** Data Science / Machine Learning  
+**Organization:** Unified Mentor 
+**Domain:** Data Science 
 **Project Type:** End-to-End ML + Dashboard System  
 
 ---
