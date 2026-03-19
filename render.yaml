@@ -1,0 +1,8 @@
+services:
+  - type: web
+    name: edupro-streamlit-dashboard
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: streamlit run appx.py --server.port $PORT --server.address 0.0.0.0
+    autoDeploy: true
